@@ -1,3 +1,3 @@
-İlk AutoRegressive Integrated Moving Average (ARIMA) modelinizi adım adım oluşturalım.
+Let's build your first AutoRegressive Integrated Moving Average (ARIMA) model step by step.
 
-Egzersizi başlatmak için bu egzersiz klasöründeki **IPython Notebook dosyasını** `jupyter notebook` ile açın.
+To start the exercise, open the **IPython Notebook** file in this exercise folder with `jupyter notebook`.
